@@ -1,0 +1,8 @@
+{
+  "name": "SPORTIVA Athletics - Contact & Support Hub",
+  "description": "Customer care, order tracking, size exchanges, and wear-test feedback for SPORTIVA high-performance sports apparel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
